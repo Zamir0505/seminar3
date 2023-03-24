@@ -1,8 +1,13 @@
-Hello hello
+# First file control version
+
+
+## Выделение текста
 
 *Coursive.*
 
 **полужирный**
+
+## Списки
 
 * One
 * Two
@@ -10,6 +15,4 @@ Hello hello
 
 1. Number one
 2. Number two
-3. Number three
-
-Begin us meet contlol version.
+3. Number three 
