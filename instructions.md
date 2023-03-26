@@ -11,3 +11,6 @@
       git status
 
 * # *Add working directory*
+
+      git add "filename"   
+      (without "")(also TAB to help)
