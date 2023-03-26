@@ -20,3 +20,7 @@
 
       git commit 
       git commit -m "message"
+
+* # *Add working directory and committing changes with adding a message.*
+
+      git commit -am "message"
