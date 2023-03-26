@@ -29,3 +29,9 @@
 
       git diff
       git diff hash1 hash2
+
+* # *View history commits with changes.*
+      git log
+      git log --all
+      git log --oneline
+      git log --oneline --all
