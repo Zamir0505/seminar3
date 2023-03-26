@@ -35,3 +35,8 @@
       git log --all
       git log --oneline
       git log --oneline --all
+
+* # *Switching branches and uploading their contents to the working directory.*
+
+      git checkout <hash> (moving to this hash)
+      git checkout master (moving to last branch)
