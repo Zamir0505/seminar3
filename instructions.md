@@ -1,4 +1,7 @@
 # **Git instructions**
 
-## *Git informations*
+## Git informations:
 
+* # *Create new repository*
+
+      git init
