@@ -14,3 +14,9 @@
 
       git add "filename"   
       (without "")(also TAB to help)
+
+* # *Committing changes and changes with adding a message.*
+
+
+      git commit 
+      git commit -m "message"
