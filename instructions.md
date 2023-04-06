@@ -44,3 +44,7 @@
 
       git checkout <hash> (moving to this hash)
       git checkout master (moving to last branch)
+
+## Ветвления
+Ветвления нужны для работы и изменения определенной части файла
+
