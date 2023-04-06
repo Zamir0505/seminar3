@@ -1,5 +1,7 @@
 # **Git instructions**
 
+![git logo](git.jpg)
+
 ***Git** is a very popular version control system*
 
 ## Git informations:
