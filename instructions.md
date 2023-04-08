@@ -52,3 +52,7 @@
     git log --graph
     git log --oneline --graph
     git log --oneline --all --graph
+
+Просмотр существующих веток
+
+    git branch
