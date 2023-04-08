@@ -52,3 +52,5 @@
     git log --graph
     git log --oneline --graph
     git log --oneline --all --graph
+
+Строка для проверки
