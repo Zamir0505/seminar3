@@ -53,4 +53,6 @@
     git log --oneline --graph
     git log --oneline --all --graph
 
-Строка для проверки
+Просмотр существующих веток
+
+    git branch
