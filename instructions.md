@@ -53,6 +53,10 @@
     git log --oneline --graph
     git log --oneline --all --graph
 
-Просмотр существующих веток
+## Просмотр существующих веток
 
     git branch
+
+## Создание новой ветки
+
+    git branch branch_name
