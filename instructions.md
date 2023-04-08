@@ -46,19 +46,13 @@
       git checkout master (moving to last branch)
 
 ## Ветвления
-_**Ветвления нужны для просмотра и изменения определенной части файла**_
-
-# Просмотр ветвлений
-    git log --graph
-## Ветвления в списке коммитов
-    git log --oneline --graph
-## Ветвления в списке всех коммитов
-    git log --oneline --all --graph
+Ветвления нужны для работы и изменения определенной части файла
 
 ## Просмотр существующих веток
+    git log --graph
+    git log --oneline --graph
+    git log --oneline --all --graph
+
+##Просмотр существующих веток
 
     git branch
-
-## Создание новой ветки
-
-    git branch branch_name
