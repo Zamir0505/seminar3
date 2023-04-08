@@ -60,3 +60,11 @@
 ## Создание новой ветки
 
     git branch branch_name
+
+## Удаление ветки
+
+    git branch -d branch_name
+
+## Удаление ветки без подстверждения (даже если нет слияния ветки)
+
+    git branch -D branch_name
